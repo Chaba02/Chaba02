@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **anything you want! I hope to answer your doubts!**
 
