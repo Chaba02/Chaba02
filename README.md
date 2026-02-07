@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate Computer Science Engineering student from Italy</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **anything you want! I hope to answer your doubts!**
 
 - 📫 How to reach me **omarchaabani22@gmail.com**
 
-- ⚡ Fun fact **I love talking to everybody and enjoy life**
+- ⚡ Fun fact **I love football and I considery myself an extrovert easygoing person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
